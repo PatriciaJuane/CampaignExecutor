@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "type": "message",
+      "channel": "LINKEDIN_MESSAGE",
+      "message": "Hi Milan, \nI'm interested in you background as Senior Software Engineer at Showpad. I'm looking for people like you for our role of Software Engineer with Startup Experience. \nWould love to connect."
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "channel": "GMAIL",
+      "subject_line": "Open to new opportunities?",
+      "message": "Hi Milan,\nI came across your profile and was impressed with your work as a Senior Software Engineer at Showpad. We're seeking individuals with your background for a Software Engineer role in our team.\n Would you be open to discussing this opportunity?\n\nBest,Andreas"
+    },
+    {
+      "id": 3,
+      "type": "delay-step",
+      "delaySeconds": 172800
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "channel": "GMAIL",
+      "subject_line": "Re: Open to new opportunities?",
+      "message": "Hi Milan,\nI wanted to follow up on my previous email regarding the Software Engineer position at our company. We're eager to find a candidate with your startup experience and believe you could be a great fit. Could we arrange a short call to discuss this further?\n\n\nBest,Andreas",
+    },
+    {
+      "id": 5,
+      "type": "delay-step",
+      "delaySeconds": 432000
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "channel": "GMAIL",
+      "subject_line": "Re: Open to new opportunities?",
+      "message": "Hi Milan,\nHope you're well. I haven't heard back from you regarding the Software Engineer position I messaged you about. We're finalizing our shortlist soon and would love to include you. Are you available for a quick chat this week to discuss the opportunity?\n\n\nBest,Andreas",
+    }
+  ]
+}

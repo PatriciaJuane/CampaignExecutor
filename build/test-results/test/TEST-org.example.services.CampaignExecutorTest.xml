@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.services.CampaignExecutorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-28T21:54:08" hostname="MacBook-Pro-de-Patricia.local" time="0.743">
+  <properties/>
+  <testcase name="testStopCampaign()" classname="org.example.services.CampaignExecutorTest" time="0.69"/>
+  <testcase name="testStopCampaignIfNoResponse()" classname="org.example.services.CampaignExecutorTest" time="0.005"/>
+  <testcase name="testScheduleCampaign()" classname="org.example.services.CampaignExecutorTest" time="0.023"/>
+  <testcase name="testStartCampaign()" classname="org.example.services.CampaignExecutorTest" time="0.005"/>
+  <system-out><![CDATA[Campaign stopped for candidate 1
+Campaign stopped for candidate 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
